@@ -35,4 +35,4 @@ while continuar:
     if opcao != 's':
         continuar = False
 
-print('obrigado por usar este programa!')
+print('Obrigado por usar este programa!')
